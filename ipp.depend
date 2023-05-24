@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1641993422 source:c:\users\lenovo\downloads\ipp\main.cpp
+	<fstream>
+	<iostream>
+	<graphics.h>
+	<winbgim.h>
+	<cstring>
+	<stdio.h>
+	<stdlib.h>
+
